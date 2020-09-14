@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/bunRieuTanDinh/static/css/main.df78a8c9.chunk.css",
-    "main.js": "/bunRieuTanDinh/static/js/main.4f389033.chunk.js",
-    "main.js.map": "/bunRieuTanDinh/static/js/main.4f389033.chunk.js.map",
-    "runtime-main.js": "/bunRieuTanDinh/static/js/runtime-main.f35b7093.js",
-    "runtime-main.js.map": "/bunRieuTanDinh/static/js/runtime-main.f35b7093.js.map",
-    "static/js/2.455e9f94.chunk.js": "/bunRieuTanDinh/static/js/2.455e9f94.chunk.js",
-    "static/js/2.455e9f94.chunk.js.map": "/bunRieuTanDinh/static/js/2.455e9f94.chunk.js.map",
-    "index.html": "/bunRieuTanDinh/index.html",
-    "precache-manifest.1cbaa4c2ca224f0695dab5e2f6682cbc.js": "/bunRieuTanDinh/precache-manifest.1cbaa4c2ca224f0695dab5e2f6682cbc.js",
-    "service-worker.js": "/bunRieuTanDinh/service-worker.js",
-    "static/css/main.df78a8c9.chunk.css.map": "/bunRieuTanDinh/static/css/main.df78a8c9.chunk.css.map",
-    "static/js/2.455e9f94.chunk.js.LICENSE.txt": "/bunRieuTanDinh/static/js/2.455e9f94.chunk.js.LICENSE.txt",
-    "static/media/logo.jpg": "/bunRieuTanDinh/static/media/logo.190869ac.jpg",
-    "static/media/page1.jpg": "/bunRieuTanDinh/static/media/page1.cb9f1e15.jpg",
-    "static/media/page2.jpg": "/bunRieuTanDinh/static/media/page2.4b0cbf8f.jpg",
-    "static/media/page3.jpg": "/bunRieuTanDinh/static/media/page3.a441a1bc.jpg",
-    "static/media/page4.jpg": "/bunRieuTanDinh/static/media/page4.bccd15b5.jpg",
-    "static/media/page5.jpg": "/bunRieuTanDinh/static/media/page5.971c5e29.jpg"
+    "main.css": "/phoUnion/static/css/main.df78a8c9.chunk.css",
+    "main.js": "/phoUnion/static/js/main.5695d902.chunk.js",
+    "main.js.map": "/phoUnion/static/js/main.5695d902.chunk.js.map",
+    "runtime-main.js": "/phoUnion/static/js/runtime-main.1c7652ab.js",
+    "runtime-main.js.map": "/phoUnion/static/js/runtime-main.1c7652ab.js.map",
+    "static/js/2.8a632612.chunk.js": "/phoUnion/static/js/2.8a632612.chunk.js",
+    "static/js/2.8a632612.chunk.js.map": "/phoUnion/static/js/2.8a632612.chunk.js.map",
+    "index.html": "/phoUnion/index.html",
+    "precache-manifest.50fbf4f4bed42558603205c8e06658c4.js": "/phoUnion/precache-manifest.50fbf4f4bed42558603205c8e06658c4.js",
+    "service-worker.js": "/phoUnion/service-worker.js",
+    "static/css/main.df78a8c9.chunk.css.map": "/phoUnion/static/css/main.df78a8c9.chunk.css.map",
+    "static/js/2.8a632612.chunk.js.LICENSE.txt": "/phoUnion/static/js/2.8a632612.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/phoUnion/static/media/logo.190869ac.jpg",
+    "static/media/page1.jpg": "/phoUnion/static/media/page1.cb9f1e15.jpg",
+    "static/media/page2.jpg": "/phoUnion/static/media/page2.4b0cbf8f.jpg",
+    "static/media/page3.jpg": "/phoUnion/static/media/page3.a441a1bc.jpg",
+    "static/media/page4.jpg": "/phoUnion/static/media/page4.bccd15b5.jpg",
+    "static/media/page5.jpg": "/phoUnion/static/media/page5.971c5e29.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f35b7093.js",
-    "static/js/2.455e9f94.chunk.js",
+    "static/js/runtime-main.1c7652ab.js",
+    "static/js/2.8a632612.chunk.js",
     "static/css/main.df78a8c9.chunk.css",
-    "static/js/main.4f389033.chunk.js"
+    "static/js/main.5695d902.chunk.js"
   ]
 }
