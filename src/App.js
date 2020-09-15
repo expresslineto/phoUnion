@@ -4,7 +4,7 @@ import './App.css';
 import MenuForm from './menu';
 import list from "./image/image";
 
-import logo from "./image/Tandinh/logo/logo.jpg"
+import logo from "./image/phoUnion/logo/logo.jpg"
 
 import { makeStyles } from "@material-ui/core/styles";
 import { Paper, Grid } from '@material-ui/core';
@@ -42,8 +42,8 @@ function App() {
           </figure>
         </Grid>
         <Grid xs={12} className={classes.storeInfo}>
-             <h4 > 999 Story Rd Unit 9045, San Jose CA, 95122</h4>
-             <h4 > (408) 564-0770</h4>
+            <h4 > 1640 Decoto Rd, Union City, CA 94587</h4>
+            <h4 > (510) 952-0118 </h4>
           </Grid></Grid>
       </Paper>
       

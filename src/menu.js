@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
     
     maxWidth: "100%",
     
-    backgroundColor: "black",
+    backgroundColor: "white",
     alignItems: "center",
   },
 }));
